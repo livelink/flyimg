@@ -41,7 +41,7 @@ Check out our demo page where you can test and review Flying's features:
 
 Flyimg can be deployed to GCP as a serverless container in one click with Cloud Run Button:
 
-<a href="https://deploy.cloud.run/" target="_blank"><img src="https://storage.googleapis.com/cloudrun/button.svg?git_repo=https://github.com/flyimg/flyimg.git" alt="Run on Google Cloud" style="width:180px;margin-top:20px;"/></a>
+<a href="https://deploy.cloud.run/" target="_blank"><img src="https://storage.googleapis.com/cloudrun/button.svg?git_repo=https://github.com/livelink/flyimg.git" alt="Run on Google Cloud" style="width:180px;margin-top:20px;"/></a>
 
 ## Requirements
 
